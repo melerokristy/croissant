@@ -4,6 +4,8 @@ body {
 .croissant-photo {
   display: block;
   max-width: 100%;
+  margin: 30px auto;
+  border-radius: 10px;
 }
 
 p {
