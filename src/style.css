@@ -1,6 +1,7 @@
 body {
   background-color: rgb(229, 160, 63);
 }
-img {
-  text-align: center;
+.croissant-photo {
+  display: block;
+  max-width: 100%;
 }
