@@ -5,3 +5,11 @@ body {
   display: block;
   max-width: 100%;
 }
+
+p {
+  display: block;
+}
+h1,
+p {
+  text-align: center;
+}
